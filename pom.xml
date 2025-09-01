@@ -26,6 +26,11 @@
       <id>vjuranek</id>
       <name>Vojtech Juranek</name>
     </developer>
+      <developer>
+        <id>m_jeanson</id>
+        <name>Michael Jeanson</name>
+        <email>mjeanson@efficios.com</email>
+      </developer>
   </developers>
 
   <scm>
